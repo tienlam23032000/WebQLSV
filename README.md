@@ -1,11 +1,8 @@
 <img src="https://github.com/ProjectGKHTPT/ProjectQLDSV/blob/master/image/00.png" /><br/>
 <center><H2>GIỚI THIỆU DỰ ÁN WEBSITE QUẢN LÝ ĐIỂM SINH VIÊN</H2></center>
 <hr/></br>
-<p>Tài liệu này được xây dựng bởi các thành viên:</br>
-                      -Nguyễn Trọng Lâm</br>
-                      -Bùi Nguyễn Hồng Phúc</br>
- 	                    -Nguyễn Thị Mỹ Linh</p></br>
-                      
+<p>Tài liệu này được xây dựng bởi:</br>
+                      -Nguyễn Tiến Lam</br
 <p><H4>Tóm tắt</H4><br/>
 <li> GIỚI THIỆU  </li>
 <li> MỤC TIÊU</li>
